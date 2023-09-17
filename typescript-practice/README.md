@@ -6,3 +6,8 @@ Javascript and Typescript are closely related. Typescript is a programming langu
 - Refactoring
 - Code Completion
 - New Features
+
+Drawbacks are:
+
+- transpilation
+- more disciplined/time-intensive coding
