@@ -1,6 +1,4 @@
 def root(x, n):
-
-    pass  # your code goes here
     l, r = 0, x
     mid = (l + r) / 2.0
     while mid - l >= 0.001:
